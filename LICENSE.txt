@@ -1,0 +1,35 @@
+KeyRunner 사용 조건
+Copyright (c) 2026 abarising. All rights reserved.
+
+1. 사용 — KeyRunner는 개인 및 교육 목적으로 무료로 사용할 수 있습니다.
+   학교, 교육기관, 가정에서 대수의 컴퓨터에 설치해 사용하는 것도 허용합니다.
+
+2. 재배포 — 설치 파일과 무설치(ZIP) 파일을 받은 그대로(수정 없이, 이 파일을 포함하여)
+   다른 사람에게 전달하는 것은 허용합니다. 판매하거나 다른 유료 상품에 끼워 넣는 것은
+   허용하지 않습니다.
+
+3. 금지 — 프로그램을 수정, 역컴파일, 역어셈블, 리버스 엔지니어링하거나 그 결과물을
+   배포하는 것은 허용하지 않습니다. 이 프로그램의 이름과 아이콘을 다른 프로그램에
+   사용하는 것도 허용하지 않습니다.
+
+4. 무보증 — 이 프로그램은 "있는 그대로" 제공됩니다. 제작자는 프로그램의 사용이나
+   사용 불능으로 생기는 어떠한 손해(데이터 손실을 포함)에 대해서도 책임지지 않습니다.
+   중요한 명령 목록은 프로그램의 백업 기능으로 따로 보관하세요.
+
+5. 제3자 구성 요소 — 이 프로그램은 .NET 런타임, Microsoft.Data.Sqlite, SQLitePCLRaw 등을
+   포함하며 각각의 라이선스는 설치 폴더의 licenses 폴더에 있습니다. 이 조건은 그 구성
+   요소에는 적용되지 않습니다.
+
+이 프로그램을 설치하거나 사용하면 위 조건에 동의한 것으로 봅니다.
+
+---
+
+KeyRunner License (English summary)
+Copyright (c) 2026 abarising. All rights reserved.
+
+KeyRunner is free for personal and educational use. You may redistribute the unmodified
+installer or portable ZIP (including this file) free of charge. You may not sell it, modify it,
+or reverse engineer it. The software is provided "as is" without warranty of any kind; the
+author is not liable for any damages, including data loss. Third-party components in the
+"licenses" folder are governed by their own licenses. In case of any difference, the Korean
+text above prevails.
